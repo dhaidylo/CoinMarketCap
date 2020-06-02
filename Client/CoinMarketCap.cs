@@ -10,7 +10,7 @@ namespace CoinMarketCap
     public class CoinMarketCap : IDisposable
     {
         private const string TEMP_PATH = "temp";
-        private const string API_KEY = "291e9170-585f-4d05-8449-7ffcc5fa08f8";
+        private const string API_KEY = "api_key";
 
         public CoinMarketCap()
         {
